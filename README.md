@@ -1,7 +1,6 @@
 
 
 This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
-It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 3.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).
 
 The entire project has been implemented using Microsoft Power BI Desktop 2.128.751.0 and published on Microsoft Power BI Service.
 
@@ -11,7 +10,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ## Contents:
 Please find the sectional links for the project below:
-- [BI 360 Live Dashboard Link](https://mavenanalytics.io/project/19189)
+- [BI 360 Live Dashboard Link]([https://mavenanalytics.io/project/19189](https://app.powerbi.com/view?r=eyJrIjoiM2RlYjQ5OWUtMDNmNi00ZGQ5LWE2NjEtZWJlYjQ5NWE4NzExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
