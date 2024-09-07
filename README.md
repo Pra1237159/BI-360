@@ -14,7 +14,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 Central navigation hub with easy access to all views, complete with support and information manual.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Home%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/Pra1237159/BI-360/blob/main/Home%20View.png" width="100%" height="100%"> </div>
 
 ### II. Finance View:
 
