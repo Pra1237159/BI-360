@@ -32,7 +32,7 @@ Focuses on boosting sales revenue and tracking customer performance, including G
 
 Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
 
-<div align="center"> <img serc="https://github.com/Pra1237159/BI-360/blob/main/M%20V.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/Pra1237159/BI-360/blob/main/M%20V.png" width="100%" height="100%"> </div>
 
 ### V. Supply Chain View:
 
