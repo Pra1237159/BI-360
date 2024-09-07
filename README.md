@@ -7,6 +7,8 @@ The entire project has been implemented using Microsoft Power BI Desktop 2.128.7
 The project data files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
 ---
+## [Business Insights 360 Live Dashboard Link](https://mavenanalytics.io/project/19189)
+---
 
 ## BI 360 Dashboard Overview:
 
@@ -57,12 +59,6 @@ Provides options to get required support
 <div align="center"> <img src="https://github.com/Pra1237159/BI-360/blob/main/Support.png" width="100%" height="100%"> </div>
 
 
-
----
-
----
-
-## [Business Insights 360 Live Dashboard Link](https://mavenanalytics.io/project/19189)
 
 ---
 
