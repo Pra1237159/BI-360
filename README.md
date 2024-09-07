@@ -2,7 +2,7 @@
 
 This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
 
-The entire project has been implemented using Microsoft Power BI Desktop 2.128.751.0 and published on Microsoft Power BI Service.
+The entire project has been implemented using Microsoft Power BI Desktop and published on Microsoft Power BI Service.
 
 The project data files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
