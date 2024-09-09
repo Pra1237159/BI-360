@@ -7,7 +7,7 @@ The entire project has been implemented using Microsoft Power BI Desktop and pub
 The project data files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
 ---
-## [Business Insights 360 Live Dashboard Link]([https://mavenanalytics.io/project/19189](https://app.powerbi.com/view?r=eyJrIjoiMzEwZTYzZTQtMzIyNC00MWU0LTlkMzMtNGEwYjBlZmQyODRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [Business Insights 360 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzEwZTYzZTQtMzIyNC00MWU0LTlkMzMtNGEwYjBlZmQyODRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## BI 360 Dashboard Overview:
